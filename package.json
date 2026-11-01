@@ -114,7 +114,7 @@
     "tailwindcss-rtl": "^0.9.0",
     "vaul": "^0.9.9",
     "web-vitals": "^4.0.1",
-    "zod": "^3.24.1"
+    "zod": "^4.6.7"
   },
   "resolutions": {
     "minimist": "1.2.6"
